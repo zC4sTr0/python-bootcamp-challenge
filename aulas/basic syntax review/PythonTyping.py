@@ -1,0 +1,5 @@
+print("Teste")
+print("Teste escape")
+print("teste 'aspas simples'")
+print('teste "aspas duplas"')
+print(1+(float('1.3')))
