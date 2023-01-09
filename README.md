@@ -1,3 +1,3 @@
 # Udemy Python Course
-Repositório para registrar meus estudos no curso: 
-https://www.udemy.com/course/python-3-do-zero-ao-avancado/
+Repositório para registrar meus estudos nos cursos: 
+https://www.udemy.com/course/100-days-of-code/
