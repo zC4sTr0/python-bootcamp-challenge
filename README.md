@@ -1,9 +1,9 @@
-# Udemy - 100 Days of Code Challenge: The Complete Python Pro Bootcamp for 2023
+# 100 Days of Code Challenge: The Complete Python Pro Bootcamp for 2023
 
-## Estou fazendo o desafio dos 100 dias de código em Python para revisar a linguagem e expandir meus conhecimentos
-- Link do curso: https://www.udemy.com/course/100-days-of-code/
+### Estou fazendo o desafio dos 100 dias de código em Python da Udemy para revisar a linguagem e expandir meus conhecimentos
+##### - **Link do curso:** https://www.udemy.com/course/100-days-of-code/
 
-O curso é inteiramente em inglês.
+O curso é inteiramente em inglês. O objetivo é fazer de 1 a 6 dias de desafio diariamente.
 
 #### Ementa do curso e progresso atual:
 
