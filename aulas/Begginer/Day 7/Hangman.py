@@ -1,7 +1,7 @@
 import random
 
 word_list = ["aardvark", "baboon", "camel", "stark",
-             "joaozinho", "gabriel", "apple", "banana"]
+             "joaozinho", "gabriel", "apple", "banana", "mango"]
 chosen_word = random.choice(word_list)
 display_word = []
 
