@@ -23,9 +23,9 @@ O curso é inteiramente em inglês. O objetivo é fazer de 1 a 6 dias de desafio
 
 - [x] **Day 8 - Beginner - Function Parameters & Caesar Cipher**
 
-- [ ] Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
+- [x] **Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction**
 
-- [ ] Day 10 - Beginner - Functions with Outputs
+- [ ] Day 10 - Beginner - Functions with Outputs _(in progress)_
 
 - [ ] Day 11 - Beginner - The Blackjack Capstone Project
 
