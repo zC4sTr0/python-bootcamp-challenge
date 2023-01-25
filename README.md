@@ -19,9 +19,9 @@ O curso é inteiramente em inglês. O objetivo é fazer de 1 a 6 dias de desafio
 
 -  [x] **Day 6 - Beginner - Python Functions & Karel**
 
-- [x] Day 7 - Beginner - Hangman - *(in progress)*
+- [x] **Day 7 - Beginner - Hangman**
 
-- [ ] Day 8 - Beginner - Function Parameters & Caesar Cipher
+- [x] **Day 8 - Beginner - Function Parameters & Caesar Cipher**
 
 - [ ] Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
 
