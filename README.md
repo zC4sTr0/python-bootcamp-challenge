@@ -27,7 +27,7 @@ O curso é inteiramente em inglês. O objetivo é fazer de 1 a 6 dias de desafio
 
 - [x] **Day 10 - Beginner - Functions with Outputs**
 
-- [x] Day 11 - Beginner - The Blackjack Capstone Project
+- [x] **Day 11 - Beginner - The Blackjack Capstone Project**
 
 - [ ] Day 12 - Beginner - Scope & Number Guessing Game _(in progress)_
 
